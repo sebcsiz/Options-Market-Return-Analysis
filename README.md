@@ -189,7 +189,7 @@ To run a single module in isolation:
 import config
 import inference
 
-df_raw, df_clean, returns = config.load_data("options.csv.csv")
+df_raw, df_clean, returns = config.load_data("options.csv")
 results = inference.run(returns)
 ```
 
