@@ -134,7 +134,7 @@ This project uses the **bendgame Options Market Trades** dataset, available on K
 
 https://www.kaggle.com/datasets/bendgame/options-market-trades
 
-Download the CSV file, rename it `options.csv.csv`, and place it in the same
+Download the CSV file, rename it `options.csv`, and place it in the same
 directory as the Python scripts before running.
 
 The dataset contains 62,795 options trades from November 2017 to August 2019 across
